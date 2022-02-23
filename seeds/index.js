@@ -24,3 +24,8 @@ const seedAll = async () => {
 };
 
 seedAll();
+
+
+
+// npm run seed for testing //        
+// need to sequelize on start too // 
