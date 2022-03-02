@@ -12,7 +12,12 @@ app.use(express.urlencoded({ extended: true }));
 app.use(routes);
 
 // sync sequelize models to the database, then turn on the server
-sequelize.sync({ force: false }).then(() => {
+// i'm going to set this to force: true for now for the video walkthrough, to show me seed.
+// Remember to switch back to force: false when submitting/
+
+
+
+sequelize.sync({ force: true }).then(() => {
   app.listen(PORT, () => {
     console.log(`App listening on port ${PORT}!`);
   });
