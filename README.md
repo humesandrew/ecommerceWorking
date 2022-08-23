@@ -14,6 +14,8 @@
     You'll need Node-Express, MySql2, Sequelize, and Postman/Insomnia.  
 
   ## Usage
+ ![Screenshot](/ecommerceworkingfull.jpg?raw=true "Screenshot")
+ 
   [Click for video demonstration.](https://drive.google.com/file/d/1UOC8PdKw9dxlecS0KK8WbKmsDrXGTTA_/view)
     
     You can test backend routes with Postman or Insomnia. 
@@ -27,4 +29,6 @@
   ## Questions
   [Click for Repository.](https://github.com/humesandrew/ecommerceWorking)
 
+  [Click for Github profile.](https://github.com/humesandrew/)
+  
   [Click to email me.](mailto:humes.andrew@gmail.com)
